@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 .navbar2 {
-  background-image: url(/image/hero-bg.png);
+  background-image: url(../image/hero-bg.png);
 }
 .layout_padding {
   padding: 75px 0;
